@@ -47,8 +47,8 @@ The medical student data was provided by the instructor in CSV format. The datas
 
 After importing the CSV data into Microsoft Excel, the dataset was cleaned to resolve missing values, removing more than 40,000 blanks. To ensure data accuracy, data validation and verification were done after that.:muscle:
 
+## Pivot Table Representation:
 
-## Visualization
 #### Image 1: *Average value for the gender (Age, BMI, Temperature, Heart Rate, Blood Pressure, and Cholesterol)*
 
 ![](AVG_AGE.png)
@@ -62,9 +62,12 @@ After importing the CSV data into Microsoft Excel, the dataset was cleaned to re
 ![](Bloodgroup.png)
 
 ### Image 4: *Smoking Status* 
-![]()
+![](Smokers.png)
+
 ### Image 5: *Diabetes Status*
 ![](Diabetes.png)
+
+## Visualization and Analysis
 
 
 ## Conclusions and Recommendations
