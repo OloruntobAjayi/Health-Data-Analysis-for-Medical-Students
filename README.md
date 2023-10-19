@@ -18,28 +18,54 @@ The task is to create Pivot Tables displaying the following:
 2. Average Height and Weight for both Genders (in 2 decimal places)
 3. Number of students across the different Blood Groups
 4. Number of Students who smoke and those who don't
-5. Number of Students who have diabetes and those who don't. in 60 words, give me a better introduction to explain to people
+5. Number of Students who have diabetes and those who don't.
+6. Visualize the insights gotten from the Pivot Table
 
-![](Sales1.png)
+![](Picture.png)
 
+## Problem Statement:
 
+The primary goal of the analysis is to examine and draw important conclusions from a dataset of medical students' demographic data, health metrics, and lifestyle choices. Understanding the variations between the male and female students, blood types, smoking patterns, and diabetes status.
 
-## Problem Statement for TASK_TWO
-
-The primary goal of the analysis is to draw insightful conclusions from the sales data, including the average revenue for "Paseo," the volume of sales in the "Government" and "Midmarket" segments, the total revenue from "Montana" sales in Canada, the highest unit of goods sold in a given region, segment, and month, and the total profit in December.
 
 ## Skill and Concept Demonstrated:
 
 The analysis had demonstrated a range of essential data analysis skills, such as:
 - Data extraction
-- Manipulation, and Visualization
+- Data Cleaning and Transformation
 - Statistical measures and conditional logic to make data-driven decisions.
-- Excel functions (e.g., XLOOKUP, SUMPRODUCT)
+- Excel functions (e.g., AVERAGEIF)
+- Pivot Table Creation and Analysis
+- Data Visualization
+
+## Data Sourcing:
+
+The medical student data was provided by the instructor in CSV format. The dataset contained information about medical students, including age, gender, BMI, temperature, heart rate, blood pressure, cholesterol, height, weight, blood group, smoking status, and diabetes status.
+
+
+## Data Transformation:
+
+After importing the CSV data into Microsoft Excel, the dataset was cleaned to resolve missing values, removing more than 40,000 blanks. To ensure data accuracy, data validation and verification were done after that.:muscle:
+
 
 ## Visualization
-To calculate the average revenue generated from each sale of 'Paseo,' I used the **AVERAGEIF** function in Excel. Additionally, to find the number of sales in the 'Government' and 'Midmarket' segments, I employed the **SUMPRODUCT** function. Moreover, to determine the total revenue from the sales of 'Montana' in Canada, I utilized **SUMIFS**. Furthermore, for identifying the highest unit of goods sold, I used the **MAX** function at first and then I used the **XLOOKUP** function to locate the country, segment and month with the highest unit sold . You can refer to the attached Excel files for more details and the visual representation of this data is presented below:
+#### Image 1: *Average value for the gender (Age, BMI, Temperature, Heart Rate, Blood Pressure, and Cholesterol)*
 
-![](TX1.png)
+![](AVG_AGE.png)
+
+### Image 2: *Average Height and Weight for both Genders (in 2 decimal places)*
+
+![](AVG_HGH.png)
+
+### Image 3: *Student count across Blood Groups*  
+
+![](Bloodgroup.png)
+
+### Image 4: *Smoking Status* 
+![]()
+### Image 5: *Diabetes Status*
+![](Diabetes.png)
+
 
 ## Conclusions and Recommendations
 
