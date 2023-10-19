@@ -95,7 +95,7 @@ Lastly, it would be beneficial to periodically update the data and conduct follo
 
 ![](GoodH.png)
 ---
-# THANK YOU!!!
+# THANK YOU !
 
 ## Acknowledgemnent 🙏 🙏
 
