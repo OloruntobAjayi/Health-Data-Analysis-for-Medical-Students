@@ -49,11 +49,11 @@ After importing the CSV data into Microsoft Excel, the dataset was cleaned to re
 
 ## Pivot Table Representation:
 
-#### Image 1: *Average value for the gender (Age, BMI, Temperature, Heart Rate, Blood Pressure, and Cholesterol)*
+### *Average value for the gender (Age, BMI, Temperature, Heart Rate, Blood Pressure, and Cholesterol)*
 
 ![](AVG_AGE.png)
 
-### Image 2: *Average Height and Weight for both Genders (in 2 decimal places)*
+### *Average Height and Weight for both Genders (in 2 decimal places)*
 
 ![](AVG_HGH.png)
 
@@ -84,9 +84,9 @@ From the pivot table, the following insight were achieved:
 
 Based on the analysis:
 
-- I discovered a need to Clarify the "Unspecified" Category in the dataset; It's essential to investigate and categorize the 20,000 unspecified cases. Without knowing their smoking status, it's challenging to make informed decisions or provide targeted support or interventions.
+- I discovered a need to clarify the "Unspecified" category in the dataset; it's essential to investigate and categorize the 20,000 unspecified cases. Without knowing their smoking status, it's challenging to make informed decisions or provide targeted support or interventions.
 - Implement a process to reach out to these students to determine their smoking status, whether they are smokers, non-smokers, or former smokers. This can be done through surveys, interviews, or self-reporting mechanisms.
-- Promote Smoking Cessation Programs With 36,029 students identified as smokers, there is a significant opportunity to implement smoking cessation programs within the medical student community.
+- Promote smoking cessation programs with 36,029 students identified as smokers, there is a significant opportunity to implement smoking cessation programs within the medical student community.
 - Programs can include counseling, access to nicotine replacement therapy, educational materials, and support groups.Encourage and incentivize smokers to participate in these programs to help them quit smoking and improve their overall health.
 - In regards to the 18,014 diabetic students, provide diabetes-specific health education and monitoring programs for them, emphasizing on self-care, regular glucose monitoring, and lifestyle management.
 - Collaborate with campus cafeterias to offer healthier, diabetes-friendly meal choices and provide nutritional information, promoting better dietary options for them.
