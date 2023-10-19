@@ -88,20 +88,19 @@ Based on the analysis:
 - Implement a process to reach out to these students to determine their smoking status, whether they are smokers, non-smokers, or former smokers. This can be done through surveys, interviews, or self-reporting mechanisms.
 - Promote Smoking Cessation Programs With 36,029 students identified as smokers, there is a significant opportunity to implement smoking cessation programs within the medical student community.
 - Programs can include counseling, access to nicotine replacement therapy, educational materials, and support groups.Encourage and incentivize smokers to participate in these programs to help them quit smoking and improve their overall health.
-- In regards to the diabetic students, provide diabetes-specific health education and monitoring programs for diabetic them, emphasizing self-care, regular glucose monitoring, and lifestyle management.
-- Collaborate with campus cafeterias to offer healthier, diabetes-friendly meal choices and provide nutritional information, promoting better dietary options for students with diabetes.
+- In regards to the 18,014 diabetic students, provide diabetes-specific health education and monitoring programs for them, emphasizing on self-care, regular glucose monitoring, and lifestyle management.
+- Collaborate with campus cafeterias to offer healthier, diabetes-friendly meal choices and provide nutritional information, promoting better dietary options for them.
 
 Lastly, it would be beneficial to periodically update the data and conduct follow-up assessments to track changes in the smoking status and diabete status as well as the effectiveness intervention programs put in place.
 
 ![](GoodH.png)
+---
+# THANK YOU!!!
 
 ## Acknowledgemnent 🙏 🙏
 
 Online sources were used to obtain the first and last image in this documentation:
 - https://pngtree.com
 - https://www.freepik.com
-
-
-
 
 
