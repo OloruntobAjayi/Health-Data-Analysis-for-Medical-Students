@@ -57,42 +57,49 @@ After importing the CSV data into Microsoft Excel, the dataset was cleaned to re
 
 ![](AVG_HGH.png)
 
-### Image 3: *Student count across Blood Groups*  
 
-![](Bloodgroup.png)
 
-### Image 4: *Smoking Status* 
-![](Smokers.png)
+*Student count across Blood Groups*             |   *Smoking Status*               |   *Diabetes Status*
+:----------------------------------------------:|:--------------------------------:|:---------------:
+![](Bloodgroup.png)                             | ![](Smokers.png)                 |  ![](Diabetes.png)
 
-### Image 5: *Diabetes Status*
-![](Diabetes.png)
 
 ## Visualization and Analysis
+
+From the pivot table, the following insight were achieved:
+
+![](Picture1_AAge.png)
+----
+![](Picture2_AWeight.png)
+----
+![](Picture3_Smokers.png)
+----
+![](Picture4_Diabetes.png)
+----
+![](Picture5_Blood.png)
+----
 
 
 ## Conclusions and Recommendations
 
-Based on our analysis:
+Based on the analysis:
 
-- 'Paseo' generates an average revenue of **$163,422** per sale. Consider optimizing sales strategies for 'Paseo' to increase revenue further.
-- 'Government' and 'Midmarket' segments account for a total of **400** sales. Focus on these segments to generate more sales which can lead to potential growth opportunities.
-- 'Montana' sales in Canada have contributed **$2,711,919** in revenue. We can explore methods to enhance the performance of 'Montana' products.
-- **'United State of America'** country, **'Government'** segment, as well as the month **'Apiril'** had the highest unit of goods sold. We can Investigate what factors led to this exceptional performance and consider to apply thesame strategy to the least unit of goods sold and where sales ar abysmally poor.
--   Lastly, we realized a total profit of **2,717,330** in the month of December; consider using such tactics in other situations after analyzing the factors that led to this month's high profits.
+- I discovered a need to Clarify the "Unspecified" Category in the dataset; It's essential to investigate and categorize the 20,000 unspecified cases. Without knowing their smoking status, it's challenging to make informed decisions or provide targeted support or interventions.
+- Implement a process to reach out to these students to determine their smoking status, whether they are smokers, non-smokers, or former smokers. This can be done through surveys, interviews, or self-reporting mechanisms.
+- Promote Smoking Cessation Programs With 36,029 students identified as smokers, there is a significant opportunity to implement smoking cessation programs within the medical student community.
+- Programs can include counseling, access to nicotine replacement therapy, educational materials, and support groups.Encourage and incentivize smokers to participate in these programs to help them quit smoking and improve their overall health.
+- In regards to the diabetic students, provide diabetes-specific health education and monitoring programs for diabetic them, emphasizing self-care, regular glucose monitoring, and lifestyle management.
+- Collaborate with campus cafeterias to offer healthier, diabetes-friendly meal choices and provide nutritional information, promoting better dietary options for students with diabetes.
 
-  
-This analysis provides actionable insights to optimize sales strategies and improve revenue. Further investigations and implementation of the recommendations can lead to better business outcomes.
+Lastly, it would be beneficial to periodically update the data and conduct follow-up assessments to track changes in the smoking status and diabete status as well as the effectiveness intervention programs put in place.
 
-![](Happysales.png)
+![](GoodH.png)
 
 ## Acknowledgemnent 🙏 🙏
 
-Online sources were used to obtain the sales report and the happysale image for this analysis:
-- https://www.freshwork.com
-- https://www.paperflite.com
-
-
-
+Online sources were used to obtain the first and last image in this documentation:
+- https://pngtree.com
+- https://www.freepik.com
 
 
 
